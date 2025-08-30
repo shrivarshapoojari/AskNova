@@ -14,6 +14,7 @@
     "appwrite": "^19.0.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "immer": "^10.1.1",
     "lucide-react": "^0.542.0",
     "next": "15.5.2",
     "node-appwrite": "^18.0.0",

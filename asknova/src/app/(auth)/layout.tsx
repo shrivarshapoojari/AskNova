@@ -17,7 +17,7 @@ const Layout = ({children}: {children: React.ReactNode}) => {
   }, [session, router])
 
   if (session) {
-    return null
+    return <div>Redirecting...</div>
   }
 
   return (
